@@ -74,16 +74,7 @@ Set up network callbacks and event handlers.
 
 
 ## Usage/Examples
-   private void Start()
-    {
-        PhotonNetwork.ConnectUsingSettings();
-        connectingPanel.SetActive(true);
-        namePanel.SetActive(false);
-        createRoomPanel.SetActive(false);
-        startGamePanel.SetActive(false);
-        joinedRoomPanel.SetActive(false);
-    }
-
+  
     public override void OnConnectedToMaster()
     {
         Debug.Log("Connected to Photon server.");
