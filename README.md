@@ -133,7 +133,8 @@ Set up network callbacks and event handlers.
 ![Logo](https://raw.githubusercontent.com/AzharKhemta/DemoClient/refs/heads/main/Photon.gif)
 ## Authors
 
-- [@DracoArts](https://github.com/orgs/DracoArts)
+- [@MirHamzaHasan](https://github.com/MirHamzaHasan)
+- [@WebSite](https://mirhamzahasan.com)
 
  - 
 
